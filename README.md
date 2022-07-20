@@ -2,4 +2,4 @@
 This plugin enables discord's secret developer mode
 
 > **Note**
-> This plugin requries better discord
+> This plugin requires better discord
